@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libc.a  CMakeFiles/c.dir/library.c.o CMakeFiles/c.dir/luck_num.c.o CMakeFiles/c.dir/rand.c.o CMakeFiles/c.dir/str.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libc.a
