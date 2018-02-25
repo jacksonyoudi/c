@@ -9,8 +9,30 @@
 /Users/youdi/Project/c/library.c
 library.h
 /Users/youdi/Project/c/library.h
+library.h
+/Users/youdi/Project/c/library.h
 stdio.h
 -
 
 /Users/youdi/Project/c/library.h
+
+/Users/youdi/Project/c/luck_num.c
+stdio.h
+-
+
+/Users/youdi/Project/c/rand.c
+stdio.h
+/Users/youdi/Project/c/stdio.h
+stdlib.h
+/Users/youdi/Project/c/stdlib.h
+time.h
+/Users/youdi/Project/c/time.h
+
+/Users/youdi/Project/c/str.c
+stdlib.h
+-
+ecpglib.h
+-
+stdio.h
+/Users/youdi/Project/c/stdio.h
 

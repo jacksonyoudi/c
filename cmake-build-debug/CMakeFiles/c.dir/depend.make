@@ -4,3 +4,9 @@
 CMakeFiles/c.dir/library.c.o: ../library.c
 CMakeFiles/c.dir/library.c.o: ../library.h
 
+CMakeFiles/c.dir/luck_num.c.o: ../luck_num.c
+
+CMakeFiles/c.dir/rand.c.o: ../rand.c
+
+CMakeFiles/c.dir/str.c.o: ../str.c
+

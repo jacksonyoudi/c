@@ -1,14 +1,14 @@
 /*************************************************************************
-	> File Name: hello.c
+	> File Name: hello.h
 	> Author: 
 	> Mail: 
-	> Created Time: 一 12/ 4 23:04:58 2017
+	> Created Time: 一  1/ 1 10:13:46 2018
  ************************************************************************/
 
-#include<stdio.h>
-#include"test_fun.h"
-int main(void) {
-    printf("hello world");
-    fun();
-    return 0;
+#ifndef _HELLO_H
+#define _HELLO_H
+void hello() {
+    start1();
+    printf("hello, my friendi\n");
 }
+#endif

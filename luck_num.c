@@ -2,13 +2,12 @@
 // Created by liangchangyou on 2017/12/10.
 //
 
-#include "stdio.h"
+#include <stdio.h>
 
 int main() {
     int choice = 0;
     printf("please input a number");
-    scanf("%d",&choice);
-
+    scanf("%d", &choice);
     switch (choice) {
         case 1 :
             printf("%d", 1);

@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/youdi/Project/c/altnames.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/floaterr.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/library.c">
 			<Option target="c"/>
 		</Unit>
@@ -91,10 +97,25 @@
 		<Unit filename="/Users/youdi/Project/c/luck_num.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/platinum.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/print2.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/rand.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/showf_pt.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/str.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/two_func.c.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/typesize.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/CMakeLists.txt">

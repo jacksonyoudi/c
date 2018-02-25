@@ -123,6 +123,60 @@ c/fast:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/build
 .PHONY : c/fast
 
+altnames.o: altnames.c.o
+
+.PHONY : altnames.o
+
+# target to build an object file
+altnames.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/altnames.c.o
+.PHONY : altnames.c.o
+
+altnames.i: altnames.c.i
+
+.PHONY : altnames.i
+
+# target to preprocess a source file
+altnames.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/altnames.c.i
+.PHONY : altnames.c.i
+
+altnames.s: altnames.c.s
+
+.PHONY : altnames.s
+
+# target to generate assembly for a file
+altnames.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/altnames.c.s
+.PHONY : altnames.c.s
+
+floaterr.o: floaterr.c.o
+
+.PHONY : floaterr.o
+
+# target to build an object file
+floaterr.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/floaterr.c.o
+.PHONY : floaterr.c.o
+
+floaterr.i: floaterr.c.i
+
+.PHONY : floaterr.i
+
+# target to preprocess a source file
+floaterr.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/floaterr.c.i
+.PHONY : floaterr.c.i
+
+floaterr.s: floaterr.c.s
+
+.PHONY : floaterr.s
+
+# target to generate assembly for a file
+floaterr.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/floaterr.c.s
+.PHONY : floaterr.c.s
+
 library.o: library.c.o
 
 .PHONY : library.o
@@ -177,6 +231,60 @@ luck_num.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/luck_num.c.s
 .PHONY : luck_num.c.s
 
+platinum.o: platinum.c.o
+
+.PHONY : platinum.o
+
+# target to build an object file
+platinum.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/platinum.c.o
+.PHONY : platinum.c.o
+
+platinum.i: platinum.c.i
+
+.PHONY : platinum.i
+
+# target to preprocess a source file
+platinum.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/platinum.c.i
+.PHONY : platinum.c.i
+
+platinum.s: platinum.c.s
+
+.PHONY : platinum.s
+
+# target to generate assembly for a file
+platinum.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/platinum.c.s
+.PHONY : platinum.c.s
+
+print2.o: print2.c.o
+
+.PHONY : print2.o
+
+# target to build an object file
+print2.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/print2.c.o
+.PHONY : print2.c.o
+
+print2.i: print2.c.i
+
+.PHONY : print2.i
+
+# target to preprocess a source file
+print2.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/print2.c.i
+.PHONY : print2.c.i
+
+print2.s: print2.c.s
+
+.PHONY : print2.s
+
+# target to generate assembly for a file
+print2.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/print2.c.s
+.PHONY : print2.c.s
+
 rand.o: rand.c.o
 
 .PHONY : rand.o
@@ -203,6 +311,33 @@ rand.s: rand.c.s
 rand.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/rand.c.s
 .PHONY : rand.c.s
+
+showf_pt.o: showf_pt.c.o
+
+.PHONY : showf_pt.o
+
+# target to build an object file
+showf_pt.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showf_pt.c.o
+.PHONY : showf_pt.c.o
+
+showf_pt.i: showf_pt.c.i
+
+.PHONY : showf_pt.i
+
+# target to preprocess a source file
+showf_pt.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showf_pt.c.i
+.PHONY : showf_pt.c.i
+
+showf_pt.s: showf_pt.c.s
+
+.PHONY : showf_pt.s
+
+# target to generate assembly for a file
+showf_pt.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showf_pt.c.s
+.PHONY : showf_pt.c.s
 
 str.o: str.c.o
 
@@ -231,6 +366,60 @@ str.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/str.c.s
 .PHONY : str.c.s
 
+two_func.c.o: two_func.c.c.o
+
+.PHONY : two_func.c.o
+
+# target to build an object file
+two_func.c.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/two_func.c.c.o
+.PHONY : two_func.c.c.o
+
+two_func.c.i: two_func.c.c.i
+
+.PHONY : two_func.c.i
+
+# target to preprocess a source file
+two_func.c.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/two_func.c.c.i
+.PHONY : two_func.c.c.i
+
+two_func.c.s: two_func.c.c.s
+
+.PHONY : two_func.c.s
+
+# target to generate assembly for a file
+two_func.c.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/two_func.c.c.s
+.PHONY : two_func.c.c.s
+
+typesize.o: typesize.c.o
+
+.PHONY : typesize.o
+
+# target to build an object file
+typesize.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/typesize.c.o
+.PHONY : typesize.c.o
+
+typesize.i: typesize.c.i
+
+.PHONY : typesize.i
+
+# target to preprocess a source file
+typesize.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/typesize.c.i
+.PHONY : typesize.c.i
+
+typesize.s: typesize.c.s
+
+.PHONY : typesize.s
+
+# target to generate assembly for a file
+typesize.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/typesize.c.s
+.PHONY : typesize.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,18 +429,39 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c"
+	@echo "... altnames.o"
+	@echo "... altnames.i"
+	@echo "... altnames.s"
+	@echo "... floaterr.o"
+	@echo "... floaterr.i"
+	@echo "... floaterr.s"
 	@echo "... library.o"
 	@echo "... library.i"
 	@echo "... library.s"
 	@echo "... luck_num.o"
 	@echo "... luck_num.i"
 	@echo "... luck_num.s"
+	@echo "... platinum.o"
+	@echo "... platinum.i"
+	@echo "... platinum.s"
+	@echo "... print2.o"
+	@echo "... print2.i"
+	@echo "... print2.s"
 	@echo "... rand.o"
 	@echo "... rand.i"
 	@echo "... rand.s"
+	@echo "... showf_pt.o"
+	@echo "... showf_pt.i"
+	@echo "... showf_pt.s"
 	@echo "... str.o"
 	@echo "... str.i"
 	@echo "... str.s"
+	@echo "... two_func.c.o"
+	@echo "... two_func.c.i"
+	@echo "... two_func.c.s"
+	@echo "... typesize.o"
+	@echo "... typesize.i"
+	@echo "... typesize.s"
 .PHONY : help
 
 
