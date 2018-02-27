@@ -6,15 +6,22 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/youdi/Project/c/altnames.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/altnames.c.o"
   "/Users/youdi/Project/c/floaterr.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/floaterr.c.o"
+  "/Users/youdi/Project/c/input.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/input.c.o"
   "/Users/youdi/Project/c/library.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/library.c.o"
+  "/Users/youdi/Project/c/longstr.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/longstr.c.o"
   "/Users/youdi/Project/c/luck_num.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/luck_num.c.o"
+  "/Users/youdi/Project/c/min_sec.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/min_sec.c.o"
   "/Users/youdi/Project/c/platinum.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/platinum.c.o"
   "/Users/youdi/Project/c/print2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/print2.c.o"
+  "/Users/youdi/Project/c/printval.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/printval.c.o"
   "/Users/youdi/Project/c/rand.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/rand.c.o"
+  "/Users/youdi/Project/c/shoes1.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes1.c.o"
+  "/Users/youdi/Project/c/shoes2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes2.c.o"
   "/Users/youdi/Project/c/showf_pt.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/showf_pt.c.o"
   "/Users/youdi/Project/c/str.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/str.c.o"
   "/Users/youdi/Project/c/two_func.c.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/two_func.c.c.o"
   "/Users/youdi/Project/c/typesize.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/typesize.c.o"
+  "/Users/youdi/Project/c/wheat.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/wheat.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

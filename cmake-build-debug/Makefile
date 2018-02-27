@@ -177,6 +177,33 @@ floaterr.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/floaterr.c.s
 .PHONY : floaterr.c.s
 
+input.o: input.c.o
+
+.PHONY : input.o
+
+# target to build an object file
+input.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/input.c.o
+.PHONY : input.c.o
+
+input.i: input.c.i
+
+.PHONY : input.i
+
+# target to preprocess a source file
+input.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/input.c.i
+.PHONY : input.c.i
+
+input.s: input.c.s
+
+.PHONY : input.s
+
+# target to generate assembly for a file
+input.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/input.c.s
+.PHONY : input.c.s
+
 library.o: library.c.o
 
 .PHONY : library.o
@@ -204,6 +231,33 @@ library.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/library.c.s
 .PHONY : library.c.s
 
+longstr.o: longstr.c.o
+
+.PHONY : longstr.o
+
+# target to build an object file
+longstr.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/longstr.c.o
+.PHONY : longstr.c.o
+
+longstr.i: longstr.c.i
+
+.PHONY : longstr.i
+
+# target to preprocess a source file
+longstr.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/longstr.c.i
+.PHONY : longstr.c.i
+
+longstr.s: longstr.c.s
+
+.PHONY : longstr.s
+
+# target to generate assembly for a file
+longstr.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/longstr.c.s
+.PHONY : longstr.c.s
+
 luck_num.o: luck_num.c.o
 
 .PHONY : luck_num.o
@@ -230,6 +284,33 @@ luck_num.s: luck_num.c.s
 luck_num.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/luck_num.c.s
 .PHONY : luck_num.c.s
+
+min_sec.o: min_sec.c.o
+
+.PHONY : min_sec.o
+
+# target to build an object file
+min_sec.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/min_sec.c.o
+.PHONY : min_sec.c.o
+
+min_sec.i: min_sec.c.i
+
+.PHONY : min_sec.i
+
+# target to preprocess a source file
+min_sec.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/min_sec.c.i
+.PHONY : min_sec.c.i
+
+min_sec.s: min_sec.c.s
+
+.PHONY : min_sec.s
+
+# target to generate assembly for a file
+min_sec.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/min_sec.c.s
+.PHONY : min_sec.c.s
 
 platinum.o: platinum.c.o
 
@@ -285,6 +366,33 @@ print2.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/print2.c.s
 .PHONY : print2.c.s
 
+printval.o: printval.c.o
+
+.PHONY : printval.o
+
+# target to build an object file
+printval.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/printval.c.o
+.PHONY : printval.c.o
+
+printval.i: printval.c.i
+
+.PHONY : printval.i
+
+# target to preprocess a source file
+printval.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/printval.c.i
+.PHONY : printval.c.i
+
+printval.s: printval.c.s
+
+.PHONY : printval.s
+
+# target to generate assembly for a file
+printval.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/printval.c.s
+.PHONY : printval.c.s
+
 rand.o: rand.c.o
 
 .PHONY : rand.o
@@ -311,6 +419,60 @@ rand.s: rand.c.s
 rand.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/rand.c.s
 .PHONY : rand.c.s
+
+shoes1.o: shoes1.c.o
+
+.PHONY : shoes1.o
+
+# target to build an object file
+shoes1.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes1.c.o
+.PHONY : shoes1.c.o
+
+shoes1.i: shoes1.c.i
+
+.PHONY : shoes1.i
+
+# target to preprocess a source file
+shoes1.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes1.c.i
+.PHONY : shoes1.c.i
+
+shoes1.s: shoes1.c.s
+
+.PHONY : shoes1.s
+
+# target to generate assembly for a file
+shoes1.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes1.c.s
+.PHONY : shoes1.c.s
+
+shoes2.o: shoes2.c.o
+
+.PHONY : shoes2.o
+
+# target to build an object file
+shoes2.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes2.c.o
+.PHONY : shoes2.c.o
+
+shoes2.i: shoes2.c.i
+
+.PHONY : shoes2.i
+
+# target to preprocess a source file
+shoes2.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes2.c.i
+.PHONY : shoes2.c.i
+
+shoes2.s: shoes2.c.s
+
+.PHONY : shoes2.s
+
+# target to generate assembly for a file
+shoes2.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes2.c.s
+.PHONY : shoes2.c.s
 
 showf_pt.o: showf_pt.c.o
 
@@ -420,6 +582,33 @@ typesize.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/typesize.c.s
 .PHONY : typesize.c.s
 
+wheat.o: wheat.c.o
+
+.PHONY : wheat.o
+
+# target to build an object file
+wheat.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wheat.c.o
+.PHONY : wheat.c.o
+
+wheat.i: wheat.c.i
+
+.PHONY : wheat.i
+
+# target to preprocess a source file
+wheat.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wheat.c.i
+.PHONY : wheat.c.i
+
+wheat.s: wheat.c.s
+
+.PHONY : wheat.s
+
+# target to generate assembly for a file
+wheat.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wheat.c.s
+.PHONY : wheat.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -435,21 +624,39 @@ help:
 	@echo "... floaterr.o"
 	@echo "... floaterr.i"
 	@echo "... floaterr.s"
+	@echo "... input.o"
+	@echo "... input.i"
+	@echo "... input.s"
 	@echo "... library.o"
 	@echo "... library.i"
 	@echo "... library.s"
+	@echo "... longstr.o"
+	@echo "... longstr.i"
+	@echo "... longstr.s"
 	@echo "... luck_num.o"
 	@echo "... luck_num.i"
 	@echo "... luck_num.s"
+	@echo "... min_sec.o"
+	@echo "... min_sec.i"
+	@echo "... min_sec.s"
 	@echo "... platinum.o"
 	@echo "... platinum.i"
 	@echo "... platinum.s"
 	@echo "... print2.o"
 	@echo "... print2.i"
 	@echo "... print2.s"
+	@echo "... printval.o"
+	@echo "... printval.i"
+	@echo "... printval.s"
 	@echo "... rand.o"
 	@echo "... rand.i"
 	@echo "... rand.s"
+	@echo "... shoes1.o"
+	@echo "... shoes1.i"
+	@echo "... shoes1.s"
+	@echo "... shoes2.o"
+	@echo "... shoes2.i"
+	@echo "... shoes2.s"
 	@echo "... showf_pt.o"
 	@echo "... showf_pt.i"
 	@echo "... showf_pt.s"
@@ -462,6 +669,9 @@ help:
 	@echo "... typesize.o"
 	@echo "... typesize.i"
 	@echo "... typesize.s"
+	@echo "... wheat.o"
+	@echo "... wheat.i"
+	@echo "... wheat.s"
 .PHONY : help
 
 

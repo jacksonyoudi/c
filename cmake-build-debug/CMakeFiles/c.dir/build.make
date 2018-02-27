@@ -297,9 +297,177 @@ CMakeFiles/c.dir/typesize.c.o.provides: CMakeFiles/c.dir/typesize.c.o.requires
 CMakeFiles/c.dir/typesize.c.o.provides.build: CMakeFiles/c.dir/typesize.c.o
 
 
+CMakeFiles/c.dir/printval.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/printval.c.o: ../printval.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/c.dir/printval.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/printval.c.o   -c /Users/youdi/Project/c/printval.c
+
+CMakeFiles/c.dir/printval.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/printval.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/printval.c > CMakeFiles/c.dir/printval.c.i
+
+CMakeFiles/c.dir/printval.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/printval.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/printval.c -o CMakeFiles/c.dir/printval.c.s
+
+CMakeFiles/c.dir/printval.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/printval.c.o.requires
+
+CMakeFiles/c.dir/printval.c.o.provides: CMakeFiles/c.dir/printval.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/printval.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/printval.c.o.provides
+
+CMakeFiles/c.dir/printval.c.o.provides.build: CMakeFiles/c.dir/printval.c.o
+
+
+CMakeFiles/c.dir/longstr.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/longstr.c.o: ../longstr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/c.dir/longstr.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/longstr.c.o   -c /Users/youdi/Project/c/longstr.c
+
+CMakeFiles/c.dir/longstr.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/longstr.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/longstr.c > CMakeFiles/c.dir/longstr.c.i
+
+CMakeFiles/c.dir/longstr.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/longstr.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/longstr.c -o CMakeFiles/c.dir/longstr.c.s
+
+CMakeFiles/c.dir/longstr.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/longstr.c.o.requires
+
+CMakeFiles/c.dir/longstr.c.o.provides: CMakeFiles/c.dir/longstr.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/longstr.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/longstr.c.o.provides
+
+CMakeFiles/c.dir/longstr.c.o.provides.build: CMakeFiles/c.dir/longstr.c.o
+
+
+CMakeFiles/c.dir/input.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/input.c.o: ../input.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/c.dir/input.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/input.c.o   -c /Users/youdi/Project/c/input.c
+
+CMakeFiles/c.dir/input.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/input.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/input.c > CMakeFiles/c.dir/input.c.i
+
+CMakeFiles/c.dir/input.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/input.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/input.c -o CMakeFiles/c.dir/input.c.s
+
+CMakeFiles/c.dir/input.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/input.c.o.requires
+
+CMakeFiles/c.dir/input.c.o.provides: CMakeFiles/c.dir/input.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/input.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/input.c.o.provides
+
+CMakeFiles/c.dir/input.c.o.provides.build: CMakeFiles/c.dir/input.c.o
+
+
+CMakeFiles/c.dir/shoes1.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/shoes1.c.o: ../shoes1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/c.dir/shoes1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/shoes1.c.o   -c /Users/youdi/Project/c/shoes1.c
+
+CMakeFiles/c.dir/shoes1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/shoes1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/shoes1.c > CMakeFiles/c.dir/shoes1.c.i
+
+CMakeFiles/c.dir/shoes1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/shoes1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/shoes1.c -o CMakeFiles/c.dir/shoes1.c.s
+
+CMakeFiles/c.dir/shoes1.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/shoes1.c.o.requires
+
+CMakeFiles/c.dir/shoes1.c.o.provides: CMakeFiles/c.dir/shoes1.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes1.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/shoes1.c.o.provides
+
+CMakeFiles/c.dir/shoes1.c.o.provides.build: CMakeFiles/c.dir/shoes1.c.o
+
+
+CMakeFiles/c.dir/shoes2.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/shoes2.c.o: ../shoes2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/c.dir/shoes2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/shoes2.c.o   -c /Users/youdi/Project/c/shoes2.c
+
+CMakeFiles/c.dir/shoes2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/shoes2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/shoes2.c > CMakeFiles/c.dir/shoes2.c.i
+
+CMakeFiles/c.dir/shoes2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/shoes2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/shoes2.c -o CMakeFiles/c.dir/shoes2.c.s
+
+CMakeFiles/c.dir/shoes2.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/shoes2.c.o.requires
+
+CMakeFiles/c.dir/shoes2.c.o.provides: CMakeFiles/c.dir/shoes2.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes2.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/shoes2.c.o.provides
+
+CMakeFiles/c.dir/shoes2.c.o.provides.build: CMakeFiles/c.dir/shoes2.c.o
+
+
+CMakeFiles/c.dir/wheat.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/wheat.c.o: ../wheat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/c.dir/wheat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/wheat.c.o   -c /Users/youdi/Project/c/wheat.c
+
+CMakeFiles/c.dir/wheat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/wheat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/wheat.c > CMakeFiles/c.dir/wheat.c.i
+
+CMakeFiles/c.dir/wheat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/wheat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/wheat.c -o CMakeFiles/c.dir/wheat.c.s
+
+CMakeFiles/c.dir/wheat.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/wheat.c.o.requires
+
+CMakeFiles/c.dir/wheat.c.o.provides: CMakeFiles/c.dir/wheat.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wheat.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/wheat.c.o.provides
+
+CMakeFiles/c.dir/wheat.c.o.provides.build: CMakeFiles/c.dir/wheat.c.o
+
+
+CMakeFiles/c.dir/min_sec.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/min_sec.c.o: ../min_sec.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/c.dir/min_sec.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/min_sec.c.o   -c /Users/youdi/Project/c/min_sec.c
+
+CMakeFiles/c.dir/min_sec.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/min_sec.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/min_sec.c > CMakeFiles/c.dir/min_sec.c.i
+
+CMakeFiles/c.dir/min_sec.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/min_sec.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/min_sec.c -o CMakeFiles/c.dir/min_sec.c.s
+
+CMakeFiles/c.dir/min_sec.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/min_sec.c.o.requires
+
+CMakeFiles/c.dir/min_sec.c.o.provides: CMakeFiles/c.dir/min_sec.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/min_sec.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/min_sec.c.o.provides
+
+CMakeFiles/c.dir/min_sec.c.o.provides.build: CMakeFiles/c.dir/min_sec.c.o
+
+
 CMakeFiles/c.dir/two_func.c.c.o: CMakeFiles/c.dir/flags.make
 CMakeFiles/c.dir/two_func.c.c.o: ../two_func.c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/two_func.c.c.o   -c /Users/youdi/Project/c/two_func.c.c
 
 CMakeFiles/c.dir/two_func.c.c.i: cmake_force
@@ -333,6 +501,13 @@ c_OBJECTS = \
 "CMakeFiles/c.dir/showf_pt.c.o" \
 "CMakeFiles/c.dir/floaterr.c.o" \
 "CMakeFiles/c.dir/typesize.c.o" \
+"CMakeFiles/c.dir/printval.c.o" \
+"CMakeFiles/c.dir/longstr.c.o" \
+"CMakeFiles/c.dir/input.c.o" \
+"CMakeFiles/c.dir/shoes1.c.o" \
+"CMakeFiles/c.dir/shoes2.c.o" \
+"CMakeFiles/c.dir/wheat.c.o" \
+"CMakeFiles/c.dir/min_sec.c.o" \
 "CMakeFiles/c.dir/two_func.c.c.o"
 
 # External object files for target c
@@ -348,10 +523,17 @@ libc.a: CMakeFiles/c.dir/altnames.c.o
 libc.a: CMakeFiles/c.dir/showf_pt.c.o
 libc.a: CMakeFiles/c.dir/floaterr.c.o
 libc.a: CMakeFiles/c.dir/typesize.c.o
+libc.a: CMakeFiles/c.dir/printval.c.o
+libc.a: CMakeFiles/c.dir/longstr.c.o
+libc.a: CMakeFiles/c.dir/input.c.o
+libc.a: CMakeFiles/c.dir/shoes1.c.o
+libc.a: CMakeFiles/c.dir/shoes2.c.o
+libc.a: CMakeFiles/c.dir/wheat.c.o
+libc.a: CMakeFiles/c.dir/min_sec.c.o
 libc.a: CMakeFiles/c.dir/two_func.c.c.o
 libc.a: CMakeFiles/c.dir/build.make
 libc.a: CMakeFiles/c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C static library libc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C static library libc.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/c.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c.dir/link.txt --verbose=$(VERBOSE)
 
@@ -370,6 +552,13 @@ CMakeFiles/c.dir/requires: CMakeFiles/c.dir/altnames.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/showf_pt.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/floaterr.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/typesize.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/printval.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/longstr.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/input.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/shoes1.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/shoes2.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/wheat.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/min_sec.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/two_func.c.c.o.requires
 
 .PHONY : CMakeFiles/c.dir/requires

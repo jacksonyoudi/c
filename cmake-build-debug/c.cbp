@@ -88,13 +88,22 @@
 		<Unit filename="/Users/youdi/Project/c/floaterr.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/input.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/library.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/library.h">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/longstr.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/luck_num.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/min_sec.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/platinum.c">
@@ -103,7 +112,16 @@
 		<Unit filename="/Users/youdi/Project/c/print2.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/printval.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/rand.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/shoes1.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/shoes2.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/showf_pt.c">
@@ -116,6 +134,9 @@
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/typesize.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/wheat.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/CMakeLists.txt">
