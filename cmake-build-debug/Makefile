@@ -150,6 +150,195 @@ altnames.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/altnames.c.s
 .PHONY : altnames.c.s
 
+boolean.o: boolean.c.o
+
+.PHONY : boolean.o
+
+# target to build an object file
+boolean.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/boolean.c.o
+.PHONY : boolean.c.o
+
+boolean.i: boolean.c.i
+
+.PHONY : boolean.i
+
+# target to preprocess a source file
+boolean.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/boolean.c.i
+.PHONY : boolean.c.i
+
+boolean.s: boolean.c.s
+
+.PHONY : boolean.s
+
+# target to generate assembly for a file
+boolean.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/boolean.c.s
+.PHONY : boolean.c.s
+
+choice.o: choice.c.o
+
+.PHONY : choice.o
+
+# target to build an object file
+choice.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/choice.c.o
+.PHONY : choice.c.o
+
+choice.i: choice.c.i
+
+.PHONY : choice.i
+
+# target to preprocess a source file
+choice.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/choice.c.i
+.PHONY : choice.c.i
+
+choice.s: choice.c.s
+
+.PHONY : choice.s
+
+# target to generate assembly for a file
+choice.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/choice.c.s
+.PHONY : choice.c.s
+
+cypher1.c.o: cypher1.c.c.o
+
+.PHONY : cypher1.c.o
+
+# target to build an object file
+cypher1.c.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher1.c.c.o
+.PHONY : cypher1.c.c.o
+
+cypher1.c.i: cypher1.c.c.i
+
+.PHONY : cypher1.c.i
+
+# target to preprocess a source file
+cypher1.c.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher1.c.c.i
+.PHONY : cypher1.c.c.i
+
+cypher1.c.s: cypher1.c.c.s
+
+.PHONY : cypher1.c.s
+
+# target to generate assembly for a file
+cypher1.c.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher1.c.c.s
+.PHONY : cypher1.c.c.s
+
+cypher2.o: cypher2.c.o
+
+.PHONY : cypher2.o
+
+# target to build an object file
+cypher2.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher2.c.o
+.PHONY : cypher2.c.o
+
+cypher2.i: cypher2.c.i
+
+.PHONY : cypher2.i
+
+# target to preprocess a source file
+cypher2.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher2.c.i
+.PHONY : cypher2.c.i
+
+cypher2.s: cypher2.c.s
+
+.PHONY : cypher2.s
+
+# target to generate assembly for a file
+cypher2.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher2.c.s
+.PHONY : cypher2.c.s
+
+echo.o: echo.c.o
+
+.PHONY : echo.o
+
+# target to build an object file
+echo.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo.c.o
+.PHONY : echo.c.o
+
+echo.i: echo.c.i
+
+.PHONY : echo.i
+
+# target to preprocess a source file
+echo.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo.c.i
+.PHONY : echo.c.i
+
+echo.s: echo.c.s
+
+.PHONY : echo.s
+
+# target to generate assembly for a file
+echo.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo.c.s
+.PHONY : echo.c.s
+
+echo_eof.o: echo_eof.c.o
+
+.PHONY : echo_eof.o
+
+# target to build an object file
+echo_eof.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo_eof.c.o
+.PHONY : echo_eof.c.o
+
+echo_eof.i: echo_eof.c.i
+
+.PHONY : echo_eof.i
+
+# target to preprocess a source file
+echo_eof.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo_eof.c.i
+.PHONY : echo_eof.c.i
+
+echo_eof.s: echo_eof.c.s
+
+.PHONY : echo_eof.s
+
+# target to generate assembly for a file
+echo_eof.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo_eof.c.s
+.PHONY : echo_eof.c.s
+
+file_eof.o: file_eof.c.o
+
+.PHONY : file_eof.o
+
+# target to build an object file
+file_eof.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/file_eof.c.o
+.PHONY : file_eof.c.o
+
+file_eof.i: file_eof.c.i
+
+.PHONY : file_eof.i
+
+# target to preprocess a source file
+file_eof.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/file_eof.c.i
+.PHONY : file_eof.c.i
+
+file_eof.s: file_eof.c.s
+
+.PHONY : file_eof.s
+
+# target to generate assembly for a file
+file_eof.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/file_eof.c.s
+.PHONY : file_eof.c.s
+
 floaterr.o: floaterr.c.o
 
 .PHONY : floaterr.o
@@ -176,6 +365,33 @@ floaterr.s: floaterr.c.s
 floaterr.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/floaterr.c.s
 .PHONY : floaterr.c.s
+
+guess.o: guess.c.o
+
+.PHONY : guess.o
+
+# target to build an object file
+guess.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/guess.c.o
+.PHONY : guess.c.o
+
+guess.i: guess.c.i
+
+.PHONY : guess.i
+
+# target to preprocess a source file
+guess.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/guess.c.i
+.PHONY : guess.c.i
+
+guess.s: guess.c.s
+
+.PHONY : guess.s
+
+# target to generate assembly for a file
+guess.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/guess.c.s
+.PHONY : guess.c.s
 
 input.o: input.c.o
 
@@ -474,6 +690,33 @@ shoes2.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/shoes2.c.s
 .PHONY : shoes2.c.s
 
+showchar.o: showchar.c.o
+
+.PHONY : showchar.o
+
+# target to build an object file
+showchar.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showchar.c.o
+.PHONY : showchar.c.o
+
+showchar.i: showchar.c.i
+
+.PHONY : showchar.i
+
+# target to preprocess a source file
+showchar.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showchar.c.i
+.PHONY : showchar.c.i
+
+showchar.s: showchar.c.s
+
+.PHONY : showchar.s
+
+# target to generate assembly for a file
+showchar.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showchar.c.s
+.PHONY : showchar.c.s
+
 showf_pt.o: showf_pt.c.o
 
 .PHONY : showf_pt.o
@@ -609,6 +852,33 @@ wheat.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wheat.c.s
 .PHONY : wheat.c.s
 
+wordcnt.o: wordcnt.c.o
+
+.PHONY : wordcnt.o
+
+# target to build an object file
+wordcnt.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wordcnt.c.o
+.PHONY : wordcnt.c.o
+
+wordcnt.i: wordcnt.c.i
+
+.PHONY : wordcnt.i
+
+# target to preprocess a source file
+wordcnt.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wordcnt.c.i
+.PHONY : wordcnt.c.i
+
+wordcnt.s: wordcnt.c.s
+
+.PHONY : wordcnt.s
+
+# target to generate assembly for a file
+wordcnt.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wordcnt.c.s
+.PHONY : wordcnt.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -621,9 +891,33 @@ help:
 	@echo "... altnames.o"
 	@echo "... altnames.i"
 	@echo "... altnames.s"
+	@echo "... boolean.o"
+	@echo "... boolean.i"
+	@echo "... boolean.s"
+	@echo "... choice.o"
+	@echo "... choice.i"
+	@echo "... choice.s"
+	@echo "... cypher1.c.o"
+	@echo "... cypher1.c.i"
+	@echo "... cypher1.c.s"
+	@echo "... cypher2.o"
+	@echo "... cypher2.i"
+	@echo "... cypher2.s"
+	@echo "... echo.o"
+	@echo "... echo.i"
+	@echo "... echo.s"
+	@echo "... echo_eof.o"
+	@echo "... echo_eof.i"
+	@echo "... echo_eof.s"
+	@echo "... file_eof.o"
+	@echo "... file_eof.i"
+	@echo "... file_eof.s"
 	@echo "... floaterr.o"
 	@echo "... floaterr.i"
 	@echo "... floaterr.s"
+	@echo "... guess.o"
+	@echo "... guess.i"
+	@echo "... guess.s"
 	@echo "... input.o"
 	@echo "... input.i"
 	@echo "... input.s"
@@ -657,6 +951,9 @@ help:
 	@echo "... shoes2.o"
 	@echo "... shoes2.i"
 	@echo "... shoes2.s"
+	@echo "... showchar.o"
+	@echo "... showchar.i"
+	@echo "... showchar.s"
 	@echo "... showf_pt.o"
 	@echo "... showf_pt.i"
 	@echo "... showf_pt.s"
@@ -672,6 +969,9 @@ help:
 	@echo "... wheat.o"
 	@echo "... wheat.i"
 	@echo "... wheat.s"
+	@echo "... wordcnt.o"
+	@echo "... wordcnt.i"
+	@echo "... wordcnt.s"
 .PHONY : help
 
 

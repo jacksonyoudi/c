@@ -5,7 +5,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/youdi/Project/c/altnames.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/altnames.c.o"
+  "/Users/youdi/Project/c/boolean.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/boolean.c.o"
+  "/Users/youdi/Project/c/choice.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/choice.c.o"
+  "/Users/youdi/Project/c/cypher1.c.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/cypher1.c.c.o"
+  "/Users/youdi/Project/c/cypher2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/cypher2.c.o"
+  "/Users/youdi/Project/c/echo.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/echo.c.o"
+  "/Users/youdi/Project/c/echo_eof.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/echo_eof.c.o"
+  "/Users/youdi/Project/c/file_eof.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/file_eof.c.o"
   "/Users/youdi/Project/c/floaterr.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/floaterr.c.o"
+  "/Users/youdi/Project/c/guess.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/guess.c.o"
   "/Users/youdi/Project/c/input.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/input.c.o"
   "/Users/youdi/Project/c/library.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/library.c.o"
   "/Users/youdi/Project/c/longstr.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/longstr.c.o"
@@ -17,11 +25,13 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/youdi/Project/c/rand.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/rand.c.o"
   "/Users/youdi/Project/c/shoes1.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes1.c.o"
   "/Users/youdi/Project/c/shoes2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes2.c.o"
+  "/Users/youdi/Project/c/showchar.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/showchar.c.o"
   "/Users/youdi/Project/c/showf_pt.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/showf_pt.c.o"
   "/Users/youdi/Project/c/str.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/str.c.o"
   "/Users/youdi/Project/c/two_func.c.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/two_func.c.c.o"
   "/Users/youdi/Project/c/typesize.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/typesize.c.o"
   "/Users/youdi/Project/c/wheat.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/wheat.c.o"
+  "/Users/youdi/Project/c/wordcnt.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/wordcnt.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

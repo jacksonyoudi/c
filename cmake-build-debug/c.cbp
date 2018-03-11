@@ -85,7 +85,31 @@
 		<Unit filename="/Users/youdi/Project/c/altnames.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/boolean.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/choice.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/cypher1.c.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/cypher2.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/echo.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/echo_eof.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/file_eof.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/floaterr.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/guess.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/input.c">
@@ -124,6 +148,9 @@
 		<Unit filename="/Users/youdi/Project/c/shoes2.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/showchar.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/showf_pt.c">
 			<Option target="c"/>
 		</Unit>
@@ -137,6 +164,9 @@
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/wheat.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/wordcnt.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/CMakeLists.txt">

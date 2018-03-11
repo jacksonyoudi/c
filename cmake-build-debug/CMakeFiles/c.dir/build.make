@@ -465,9 +465,249 @@ CMakeFiles/c.dir/min_sec.c.o.provides: CMakeFiles/c.dir/min_sec.c.o.requires
 CMakeFiles/c.dir/min_sec.c.o.provides.build: CMakeFiles/c.dir/min_sec.c.o
 
 
+CMakeFiles/c.dir/boolean.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/boolean.c.o: ../boolean.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/c.dir/boolean.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/boolean.c.o   -c /Users/youdi/Project/c/boolean.c
+
+CMakeFiles/c.dir/boolean.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/boolean.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/boolean.c > CMakeFiles/c.dir/boolean.c.i
+
+CMakeFiles/c.dir/boolean.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/boolean.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/boolean.c -o CMakeFiles/c.dir/boolean.c.s
+
+CMakeFiles/c.dir/boolean.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/boolean.c.o.requires
+
+CMakeFiles/c.dir/boolean.c.o.provides: CMakeFiles/c.dir/boolean.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/boolean.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/boolean.c.o.provides
+
+CMakeFiles/c.dir/boolean.c.o.provides.build: CMakeFiles/c.dir/boolean.c.o
+
+
+CMakeFiles/c.dir/cypher1.c.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/cypher1.c.c.o: ../cypher1.c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/c.dir/cypher1.c.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/cypher1.c.c.o   -c /Users/youdi/Project/c/cypher1.c.c
+
+CMakeFiles/c.dir/cypher1.c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/cypher1.c.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/cypher1.c.c > CMakeFiles/c.dir/cypher1.c.c.i
+
+CMakeFiles/c.dir/cypher1.c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/cypher1.c.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/cypher1.c.c -o CMakeFiles/c.dir/cypher1.c.c.s
+
+CMakeFiles/c.dir/cypher1.c.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/cypher1.c.c.o.requires
+
+CMakeFiles/c.dir/cypher1.c.c.o.provides: CMakeFiles/c.dir/cypher1.c.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher1.c.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/cypher1.c.c.o.provides
+
+CMakeFiles/c.dir/cypher1.c.c.o.provides.build: CMakeFiles/c.dir/cypher1.c.c.o
+
+
+CMakeFiles/c.dir/cypher2.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/cypher2.c.o: ../cypher2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/c.dir/cypher2.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/cypher2.c.o   -c /Users/youdi/Project/c/cypher2.c
+
+CMakeFiles/c.dir/cypher2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/cypher2.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/cypher2.c > CMakeFiles/c.dir/cypher2.c.i
+
+CMakeFiles/c.dir/cypher2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/cypher2.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/cypher2.c -o CMakeFiles/c.dir/cypher2.c.s
+
+CMakeFiles/c.dir/cypher2.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/cypher2.c.o.requires
+
+CMakeFiles/c.dir/cypher2.c.o.provides: CMakeFiles/c.dir/cypher2.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher2.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/cypher2.c.o.provides
+
+CMakeFiles/c.dir/cypher2.c.o.provides.build: CMakeFiles/c.dir/cypher2.c.o
+
+
+CMakeFiles/c.dir/wordcnt.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/wordcnt.c.o: ../wordcnt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/c.dir/wordcnt.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/wordcnt.c.o   -c /Users/youdi/Project/c/wordcnt.c
+
+CMakeFiles/c.dir/wordcnt.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/wordcnt.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/wordcnt.c > CMakeFiles/c.dir/wordcnt.c.i
+
+CMakeFiles/c.dir/wordcnt.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/wordcnt.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/wordcnt.c -o CMakeFiles/c.dir/wordcnt.c.s
+
+CMakeFiles/c.dir/wordcnt.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/wordcnt.c.o.requires
+
+CMakeFiles/c.dir/wordcnt.c.o.provides: CMakeFiles/c.dir/wordcnt.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/wordcnt.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/wordcnt.c.o.provides
+
+CMakeFiles/c.dir/wordcnt.c.o.provides.build: CMakeFiles/c.dir/wordcnt.c.o
+
+
+CMakeFiles/c.dir/echo.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/echo.c.o: ../echo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/c.dir/echo.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/echo.c.o   -c /Users/youdi/Project/c/echo.c
+
+CMakeFiles/c.dir/echo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/echo.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/echo.c > CMakeFiles/c.dir/echo.c.i
+
+CMakeFiles/c.dir/echo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/echo.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/echo.c -o CMakeFiles/c.dir/echo.c.s
+
+CMakeFiles/c.dir/echo.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/echo.c.o.requires
+
+CMakeFiles/c.dir/echo.c.o.provides: CMakeFiles/c.dir/echo.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/echo.c.o.provides
+
+CMakeFiles/c.dir/echo.c.o.provides.build: CMakeFiles/c.dir/echo.c.o
+
+
+CMakeFiles/c.dir/echo_eof.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/echo_eof.c.o: ../echo_eof.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/c.dir/echo_eof.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/echo_eof.c.o   -c /Users/youdi/Project/c/echo_eof.c
+
+CMakeFiles/c.dir/echo_eof.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/echo_eof.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/echo_eof.c > CMakeFiles/c.dir/echo_eof.c.i
+
+CMakeFiles/c.dir/echo_eof.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/echo_eof.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/echo_eof.c -o CMakeFiles/c.dir/echo_eof.c.s
+
+CMakeFiles/c.dir/echo_eof.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/echo_eof.c.o.requires
+
+CMakeFiles/c.dir/echo_eof.c.o.provides: CMakeFiles/c.dir/echo_eof.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo_eof.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/echo_eof.c.o.provides
+
+CMakeFiles/c.dir/echo_eof.c.o.provides.build: CMakeFiles/c.dir/echo_eof.c.o
+
+
+CMakeFiles/c.dir/file_eof.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/file_eof.c.o: ../file_eof.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/c.dir/file_eof.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/file_eof.c.o   -c /Users/youdi/Project/c/file_eof.c
+
+CMakeFiles/c.dir/file_eof.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/file_eof.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/file_eof.c > CMakeFiles/c.dir/file_eof.c.i
+
+CMakeFiles/c.dir/file_eof.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/file_eof.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/file_eof.c -o CMakeFiles/c.dir/file_eof.c.s
+
+CMakeFiles/c.dir/file_eof.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/file_eof.c.o.requires
+
+CMakeFiles/c.dir/file_eof.c.o.provides: CMakeFiles/c.dir/file_eof.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/file_eof.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/file_eof.c.o.provides
+
+CMakeFiles/c.dir/file_eof.c.o.provides.build: CMakeFiles/c.dir/file_eof.c.o
+
+
+CMakeFiles/c.dir/guess.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/guess.c.o: ../guess.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/c.dir/guess.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/guess.c.o   -c /Users/youdi/Project/c/guess.c
+
+CMakeFiles/c.dir/guess.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/guess.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/guess.c > CMakeFiles/c.dir/guess.c.i
+
+CMakeFiles/c.dir/guess.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/guess.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/guess.c -o CMakeFiles/c.dir/guess.c.s
+
+CMakeFiles/c.dir/guess.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/guess.c.o.requires
+
+CMakeFiles/c.dir/guess.c.o.provides: CMakeFiles/c.dir/guess.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/guess.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/guess.c.o.provides
+
+CMakeFiles/c.dir/guess.c.o.provides.build: CMakeFiles/c.dir/guess.c.o
+
+
+CMakeFiles/c.dir/showchar.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/showchar.c.o: ../showchar.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/c.dir/showchar.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/showchar.c.o   -c /Users/youdi/Project/c/showchar.c
+
+CMakeFiles/c.dir/showchar.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/showchar.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/showchar.c > CMakeFiles/c.dir/showchar.c.i
+
+CMakeFiles/c.dir/showchar.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/showchar.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/showchar.c -o CMakeFiles/c.dir/showchar.c.s
+
+CMakeFiles/c.dir/showchar.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/showchar.c.o.requires
+
+CMakeFiles/c.dir/showchar.c.o.provides: CMakeFiles/c.dir/showchar.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/showchar.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/showchar.c.o.provides
+
+CMakeFiles/c.dir/showchar.c.o.provides.build: CMakeFiles/c.dir/showchar.c.o
+
+
+CMakeFiles/c.dir/choice.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/choice.c.o: ../choice.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/c.dir/choice.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/choice.c.o   -c /Users/youdi/Project/c/choice.c
+
+CMakeFiles/c.dir/choice.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/choice.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/choice.c > CMakeFiles/c.dir/choice.c.i
+
+CMakeFiles/c.dir/choice.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/choice.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/choice.c -o CMakeFiles/c.dir/choice.c.s
+
+CMakeFiles/c.dir/choice.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/choice.c.o.requires
+
+CMakeFiles/c.dir/choice.c.o.provides: CMakeFiles/c.dir/choice.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/choice.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/choice.c.o.provides
+
+CMakeFiles/c.dir/choice.c.o.provides.build: CMakeFiles/c.dir/choice.c.o
+
+
 CMakeFiles/c.dir/two_func.c.c.o: CMakeFiles/c.dir/flags.make
 CMakeFiles/c.dir/two_func.c.c.o: ../two_func.c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/two_func.c.c.o   -c /Users/youdi/Project/c/two_func.c.c
 
 CMakeFiles/c.dir/two_func.c.c.i: cmake_force
@@ -508,6 +748,16 @@ c_OBJECTS = \
 "CMakeFiles/c.dir/shoes2.c.o" \
 "CMakeFiles/c.dir/wheat.c.o" \
 "CMakeFiles/c.dir/min_sec.c.o" \
+"CMakeFiles/c.dir/boolean.c.o" \
+"CMakeFiles/c.dir/cypher1.c.c.o" \
+"CMakeFiles/c.dir/cypher2.c.o" \
+"CMakeFiles/c.dir/wordcnt.c.o" \
+"CMakeFiles/c.dir/echo.c.o" \
+"CMakeFiles/c.dir/echo_eof.c.o" \
+"CMakeFiles/c.dir/file_eof.c.o" \
+"CMakeFiles/c.dir/guess.c.o" \
+"CMakeFiles/c.dir/showchar.c.o" \
+"CMakeFiles/c.dir/choice.c.o" \
 "CMakeFiles/c.dir/two_func.c.c.o"
 
 # External object files for target c
@@ -530,10 +780,20 @@ libc.a: CMakeFiles/c.dir/shoes1.c.o
 libc.a: CMakeFiles/c.dir/shoes2.c.o
 libc.a: CMakeFiles/c.dir/wheat.c.o
 libc.a: CMakeFiles/c.dir/min_sec.c.o
+libc.a: CMakeFiles/c.dir/boolean.c.o
+libc.a: CMakeFiles/c.dir/cypher1.c.c.o
+libc.a: CMakeFiles/c.dir/cypher2.c.o
+libc.a: CMakeFiles/c.dir/wordcnt.c.o
+libc.a: CMakeFiles/c.dir/echo.c.o
+libc.a: CMakeFiles/c.dir/echo_eof.c.o
+libc.a: CMakeFiles/c.dir/file_eof.c.o
+libc.a: CMakeFiles/c.dir/guess.c.o
+libc.a: CMakeFiles/c.dir/showchar.c.o
+libc.a: CMakeFiles/c.dir/choice.c.o
 libc.a: CMakeFiles/c.dir/two_func.c.c.o
 libc.a: CMakeFiles/c.dir/build.make
 libc.a: CMakeFiles/c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C static library libc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking C static library libc.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/c.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c.dir/link.txt --verbose=$(VERBOSE)
 
@@ -559,6 +819,16 @@ CMakeFiles/c.dir/requires: CMakeFiles/c.dir/shoes1.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/shoes2.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/wheat.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/min_sec.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/boolean.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/cypher1.c.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/cypher2.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/wordcnt.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/echo.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/echo_eof.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/file_eof.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/guess.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/showchar.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/choice.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/two_func.c.c.o.requires
 
 .PHONY : CMakeFiles/c.dir/requires
