@@ -85,6 +85,9 @@
 		<Unit filename="/Users/youdi/Project/c/altnames.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/binary.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/boolean.c">
 			<Option target="c"/>
 		</Unit>
@@ -97,10 +100,19 @@
 		<Unit filename="/Users/youdi/Project/c/cypher2.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/day_mon1.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/designate.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/echo.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/echo_eof.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/factor.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/file_eof.c">
@@ -110,6 +122,12 @@
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/guess.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/hotel.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/hotel.h">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/input.c">
@@ -155,6 +173,9 @@
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/str.c">
+			<Option target="c"/>
+		</Unit>
+		<Unit filename="/Users/youdi/Project/c/string1.c">
 			<Option target="c"/>
 		</Unit>
 		<Unit filename="/Users/youdi/Project/c/two_func.c.c">

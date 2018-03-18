@@ -150,6 +150,33 @@ altnames.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/altnames.c.s
 .PHONY : altnames.c.s
 
+binary.o: binary.c.o
+
+.PHONY : binary.o
+
+# target to build an object file
+binary.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/binary.c.o
+.PHONY : binary.c.o
+
+binary.i: binary.c.i
+
+.PHONY : binary.i
+
+# target to preprocess a source file
+binary.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/binary.c.i
+.PHONY : binary.c.i
+
+binary.s: binary.c.s
+
+.PHONY : binary.s
+
+# target to generate assembly for a file
+binary.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/binary.c.s
+.PHONY : binary.c.s
+
 boolean.o: boolean.c.o
 
 .PHONY : boolean.o
@@ -258,6 +285,60 @@ cypher2.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/cypher2.c.s
 .PHONY : cypher2.c.s
 
+day_mon1.o: day_mon1.c.o
+
+.PHONY : day_mon1.o
+
+# target to build an object file
+day_mon1.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/day_mon1.c.o
+.PHONY : day_mon1.c.o
+
+day_mon1.i: day_mon1.c.i
+
+.PHONY : day_mon1.i
+
+# target to preprocess a source file
+day_mon1.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/day_mon1.c.i
+.PHONY : day_mon1.c.i
+
+day_mon1.s: day_mon1.c.s
+
+.PHONY : day_mon1.s
+
+# target to generate assembly for a file
+day_mon1.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/day_mon1.c.s
+.PHONY : day_mon1.c.s
+
+designate.o: designate.c.o
+
+.PHONY : designate.o
+
+# target to build an object file
+designate.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/designate.c.o
+.PHONY : designate.c.o
+
+designate.i: designate.c.i
+
+.PHONY : designate.i
+
+# target to preprocess a source file
+designate.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/designate.c.i
+.PHONY : designate.c.i
+
+designate.s: designate.c.s
+
+.PHONY : designate.s
+
+# target to generate assembly for a file
+designate.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/designate.c.s
+.PHONY : designate.c.s
+
 echo.o: echo.c.o
 
 .PHONY : echo.o
@@ -311,6 +392,33 @@ echo_eof.s: echo_eof.c.s
 echo_eof.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/echo_eof.c.s
 .PHONY : echo_eof.c.s
+
+factor.o: factor.c.o
+
+.PHONY : factor.o
+
+# target to build an object file
+factor.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/factor.c.o
+.PHONY : factor.c.o
+
+factor.i: factor.c.i
+
+.PHONY : factor.i
+
+# target to preprocess a source file
+factor.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/factor.c.i
+.PHONY : factor.c.i
+
+factor.s: factor.c.s
+
+.PHONY : factor.s
+
+# target to generate assembly for a file
+factor.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/factor.c.s
+.PHONY : factor.c.s
 
 file_eof.o: file_eof.c.o
 
@@ -392,6 +500,33 @@ guess.s: guess.c.s
 guess.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/guess.c.s
 .PHONY : guess.c.s
+
+hotel.o: hotel.c.o
+
+.PHONY : hotel.o
+
+# target to build an object file
+hotel.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/hotel.c.o
+.PHONY : hotel.c.o
+
+hotel.i: hotel.c.i
+
+.PHONY : hotel.i
+
+# target to preprocess a source file
+hotel.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/hotel.c.i
+.PHONY : hotel.c.i
+
+hotel.s: hotel.c.s
+
+.PHONY : hotel.s
+
+# target to generate assembly for a file
+hotel.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/hotel.c.s
+.PHONY : hotel.c.s
 
 input.o: input.c.o
 
@@ -771,6 +906,33 @@ str.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/str.c.s
 .PHONY : str.c.s
 
+string1.o: string1.c.o
+
+.PHONY : string1.o
+
+# target to build an object file
+string1.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/string1.c.o
+.PHONY : string1.c.o
+
+string1.i: string1.c.i
+
+.PHONY : string1.i
+
+# target to preprocess a source file
+string1.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/string1.c.i
+.PHONY : string1.c.i
+
+string1.s: string1.c.s
+
+.PHONY : string1.s
+
+# target to generate assembly for a file
+string1.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/string1.c.s
+.PHONY : string1.c.s
+
 two_func.c.o: two_func.c.c.o
 
 .PHONY : two_func.c.o
@@ -891,6 +1053,9 @@ help:
 	@echo "... altnames.o"
 	@echo "... altnames.i"
 	@echo "... altnames.s"
+	@echo "... binary.o"
+	@echo "... binary.i"
+	@echo "... binary.s"
 	@echo "... boolean.o"
 	@echo "... boolean.i"
 	@echo "... boolean.s"
@@ -903,12 +1068,21 @@ help:
 	@echo "... cypher2.o"
 	@echo "... cypher2.i"
 	@echo "... cypher2.s"
+	@echo "... day_mon1.o"
+	@echo "... day_mon1.i"
+	@echo "... day_mon1.s"
+	@echo "... designate.o"
+	@echo "... designate.i"
+	@echo "... designate.s"
 	@echo "... echo.o"
 	@echo "... echo.i"
 	@echo "... echo.s"
 	@echo "... echo_eof.o"
 	@echo "... echo_eof.i"
 	@echo "... echo_eof.s"
+	@echo "... factor.o"
+	@echo "... factor.i"
+	@echo "... factor.s"
 	@echo "... file_eof.o"
 	@echo "... file_eof.i"
 	@echo "... file_eof.s"
@@ -918,6 +1092,9 @@ help:
 	@echo "... guess.o"
 	@echo "... guess.i"
 	@echo "... guess.s"
+	@echo "... hotel.o"
+	@echo "... hotel.i"
+	@echo "... hotel.s"
 	@echo "... input.o"
 	@echo "... input.i"
 	@echo "... input.s"
@@ -960,6 +1137,9 @@ help:
 	@echo "... str.o"
 	@echo "... str.i"
 	@echo "... str.s"
+	@echo "... string1.o"
+	@echo "... string1.i"
+	@echo "... string1.s"
 	@echo "... two_func.c.o"
 	@echo "... two_func.c.i"
 	@echo "... two_func.c.s"

@@ -705,9 +705,153 @@ CMakeFiles/c.dir/choice.c.o.provides: CMakeFiles/c.dir/choice.c.o.requires
 CMakeFiles/c.dir/choice.c.o.provides.build: CMakeFiles/c.dir/choice.c.o
 
 
+CMakeFiles/c.dir/factor.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/factor.c.o: ../factor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/c.dir/factor.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/factor.c.o   -c /Users/youdi/Project/c/factor.c
+
+CMakeFiles/c.dir/factor.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/factor.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/factor.c > CMakeFiles/c.dir/factor.c.i
+
+CMakeFiles/c.dir/factor.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/factor.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/factor.c -o CMakeFiles/c.dir/factor.c.s
+
+CMakeFiles/c.dir/factor.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/factor.c.o.requires
+
+CMakeFiles/c.dir/factor.c.o.provides: CMakeFiles/c.dir/factor.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/factor.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/factor.c.o.provides
+
+CMakeFiles/c.dir/factor.c.o.provides.build: CMakeFiles/c.dir/factor.c.o
+
+
+CMakeFiles/c.dir/binary.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/binary.c.o: ../binary.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/c.dir/binary.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/binary.c.o   -c /Users/youdi/Project/c/binary.c
+
+CMakeFiles/c.dir/binary.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/binary.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/binary.c > CMakeFiles/c.dir/binary.c.i
+
+CMakeFiles/c.dir/binary.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/binary.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/binary.c -o CMakeFiles/c.dir/binary.c.s
+
+CMakeFiles/c.dir/binary.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/binary.c.o.requires
+
+CMakeFiles/c.dir/binary.c.o.provides: CMakeFiles/c.dir/binary.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/binary.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/binary.c.o.provides
+
+CMakeFiles/c.dir/binary.c.o.provides.build: CMakeFiles/c.dir/binary.c.o
+
+
+CMakeFiles/c.dir/hotel.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/hotel.c.o: ../hotel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/c.dir/hotel.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/hotel.c.o   -c /Users/youdi/Project/c/hotel.c
+
+CMakeFiles/c.dir/hotel.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/hotel.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/hotel.c > CMakeFiles/c.dir/hotel.c.i
+
+CMakeFiles/c.dir/hotel.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/hotel.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/hotel.c -o CMakeFiles/c.dir/hotel.c.s
+
+CMakeFiles/c.dir/hotel.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/hotel.c.o.requires
+
+CMakeFiles/c.dir/hotel.c.o.provides: CMakeFiles/c.dir/hotel.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/hotel.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/hotel.c.o.provides
+
+CMakeFiles/c.dir/hotel.c.o.provides.build: CMakeFiles/c.dir/hotel.c.o
+
+
+CMakeFiles/c.dir/day_mon1.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/day_mon1.c.o: ../day_mon1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/c.dir/day_mon1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/day_mon1.c.o   -c /Users/youdi/Project/c/day_mon1.c
+
+CMakeFiles/c.dir/day_mon1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/day_mon1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/day_mon1.c > CMakeFiles/c.dir/day_mon1.c.i
+
+CMakeFiles/c.dir/day_mon1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/day_mon1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/day_mon1.c -o CMakeFiles/c.dir/day_mon1.c.s
+
+CMakeFiles/c.dir/day_mon1.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/day_mon1.c.o.requires
+
+CMakeFiles/c.dir/day_mon1.c.o.provides: CMakeFiles/c.dir/day_mon1.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/day_mon1.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/day_mon1.c.o.provides
+
+CMakeFiles/c.dir/day_mon1.c.o.provides.build: CMakeFiles/c.dir/day_mon1.c.o
+
+
+CMakeFiles/c.dir/designate.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/designate.c.o: ../designate.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/c.dir/designate.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/designate.c.o   -c /Users/youdi/Project/c/designate.c
+
+CMakeFiles/c.dir/designate.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/designate.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/designate.c > CMakeFiles/c.dir/designate.c.i
+
+CMakeFiles/c.dir/designate.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/designate.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/designate.c -o CMakeFiles/c.dir/designate.c.s
+
+CMakeFiles/c.dir/designate.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/designate.c.o.requires
+
+CMakeFiles/c.dir/designate.c.o.provides: CMakeFiles/c.dir/designate.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/designate.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/designate.c.o.provides
+
+CMakeFiles/c.dir/designate.c.o.provides.build: CMakeFiles/c.dir/designate.c.o
+
+
+CMakeFiles/c.dir/string1.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/string1.c.o: ../string1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/c.dir/string1.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/string1.c.o   -c /Users/youdi/Project/c/string1.c
+
+CMakeFiles/c.dir/string1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/string1.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/string1.c > CMakeFiles/c.dir/string1.c.i
+
+CMakeFiles/c.dir/string1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/string1.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/string1.c -o CMakeFiles/c.dir/string1.c.s
+
+CMakeFiles/c.dir/string1.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/string1.c.o.requires
+
+CMakeFiles/c.dir/string1.c.o.provides: CMakeFiles/c.dir/string1.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/string1.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/string1.c.o.provides
+
+CMakeFiles/c.dir/string1.c.o.provides.build: CMakeFiles/c.dir/string1.c.o
+
+
 CMakeFiles/c.dir/two_func.c.c.o: CMakeFiles/c.dir/flags.make
 CMakeFiles/c.dir/two_func.c.c.o: ../two_func.c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/two_func.c.c.o   -c /Users/youdi/Project/c/two_func.c.c
 
 CMakeFiles/c.dir/two_func.c.c.i: cmake_force
@@ -758,6 +902,12 @@ c_OBJECTS = \
 "CMakeFiles/c.dir/guess.c.o" \
 "CMakeFiles/c.dir/showchar.c.o" \
 "CMakeFiles/c.dir/choice.c.o" \
+"CMakeFiles/c.dir/factor.c.o" \
+"CMakeFiles/c.dir/binary.c.o" \
+"CMakeFiles/c.dir/hotel.c.o" \
+"CMakeFiles/c.dir/day_mon1.c.o" \
+"CMakeFiles/c.dir/designate.c.o" \
+"CMakeFiles/c.dir/string1.c.o" \
 "CMakeFiles/c.dir/two_func.c.c.o"
 
 # External object files for target c
@@ -790,10 +940,16 @@ libc.a: CMakeFiles/c.dir/file_eof.c.o
 libc.a: CMakeFiles/c.dir/guess.c.o
 libc.a: CMakeFiles/c.dir/showchar.c.o
 libc.a: CMakeFiles/c.dir/choice.c.o
+libc.a: CMakeFiles/c.dir/factor.c.o
+libc.a: CMakeFiles/c.dir/binary.c.o
+libc.a: CMakeFiles/c.dir/hotel.c.o
+libc.a: CMakeFiles/c.dir/day_mon1.c.o
+libc.a: CMakeFiles/c.dir/designate.c.o
+libc.a: CMakeFiles/c.dir/string1.c.o
 libc.a: CMakeFiles/c.dir/two_func.c.c.o
 libc.a: CMakeFiles/c.dir/build.make
 libc.a: CMakeFiles/c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking C static library libc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking C static library libc.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/c.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c.dir/link.txt --verbose=$(VERBOSE)
 
@@ -829,6 +985,12 @@ CMakeFiles/c.dir/requires: CMakeFiles/c.dir/file_eof.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/guess.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/showchar.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/choice.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/factor.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/binary.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/hotel.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/day_mon1.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/designate.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/string1.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/two_func.c.c.o.requires
 
 .PHONY : CMakeFiles/c.dir/requires
