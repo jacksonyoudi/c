@@ -160,6 +160,9 @@
 		<Unit filename="/Users/youdi/Project/c/rand.c">
 			<Option target="c"/>
 		</Unit>
+		<Unit filename="/Users/youdi/Project/c/repeat.c">
+			<Option target="c"/>
+		</Unit>
 		<Unit filename="/Users/youdi/Project/c/shoes1.c">
 			<Option target="c"/>
 		</Unit>

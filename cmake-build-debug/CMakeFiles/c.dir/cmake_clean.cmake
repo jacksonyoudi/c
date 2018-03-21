@@ -32,6 +32,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/c.dir/day_mon1.c.o"
   "CMakeFiles/c.dir/designate.c.o"
   "CMakeFiles/c.dir/string1.c.o"
+  "CMakeFiles/c.dir/repeat.c.o"
   "CMakeFiles/c.dir/two_func.c.c.o"
   "libc.pdb"
   "libc.a"

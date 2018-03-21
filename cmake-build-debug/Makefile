@@ -771,6 +771,33 @@ rand.c.s:
 	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/rand.c.s
 .PHONY : rand.c.s
 
+repeat.o: repeat.c.o
+
+.PHONY : repeat.o
+
+# target to build an object file
+repeat.c.o:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/repeat.c.o
+.PHONY : repeat.c.o
+
+repeat.i: repeat.c.i
+
+.PHONY : repeat.i
+
+# target to preprocess a source file
+repeat.c.i:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/repeat.c.i
+.PHONY : repeat.c.i
+
+repeat.s: repeat.c.s
+
+.PHONY : repeat.s
+
+# target to generate assembly for a file
+repeat.c.s:
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/repeat.c.s
+.PHONY : repeat.c.s
+
 shoes1.o: shoes1.c.o
 
 .PHONY : shoes1.o
@@ -1122,6 +1149,9 @@ help:
 	@echo "... rand.o"
 	@echo "... rand.i"
 	@echo "... rand.s"
+	@echo "... repeat.o"
+	@echo "... repeat.i"
+	@echo "... repeat.s"
 	@echo "... shoes1.o"
 	@echo "... shoes1.i"
 	@echo "... shoes1.s"

@@ -28,6 +28,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/youdi/Project/c/print2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/print2.c.o"
   "/Users/youdi/Project/c/printval.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/printval.c.o"
   "/Users/youdi/Project/c/rand.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/rand.c.o"
+  "/Users/youdi/Project/c/repeat.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/repeat.c.o"
   "/Users/youdi/Project/c/shoes1.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes1.c.o"
   "/Users/youdi/Project/c/shoes2.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/shoes2.c.o"
   "/Users/youdi/Project/c/showchar.c" "/Users/youdi/Project/c/cmake-build-debug/CMakeFiles/c.dir/showchar.c.o"

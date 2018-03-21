@@ -849,9 +849,33 @@ CMakeFiles/c.dir/string1.c.o.provides: CMakeFiles/c.dir/string1.c.o.requires
 CMakeFiles/c.dir/string1.c.o.provides.build: CMakeFiles/c.dir/string1.c.o
 
 
+CMakeFiles/c.dir/repeat.c.o: CMakeFiles/c.dir/flags.make
+CMakeFiles/c.dir/repeat.c.o: ../repeat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/c.dir/repeat.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/repeat.c.o   -c /Users/youdi/Project/c/repeat.c
+
+CMakeFiles/c.dir/repeat.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c.dir/repeat.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/youdi/Project/c/repeat.c > CMakeFiles/c.dir/repeat.c.i
+
+CMakeFiles/c.dir/repeat.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c.dir/repeat.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/youdi/Project/c/repeat.c -o CMakeFiles/c.dir/repeat.c.s
+
+CMakeFiles/c.dir/repeat.c.o.requires:
+
+.PHONY : CMakeFiles/c.dir/repeat.c.o.requires
+
+CMakeFiles/c.dir/repeat.c.o.provides: CMakeFiles/c.dir/repeat.c.o.requires
+	$(MAKE) -f CMakeFiles/c.dir/build.make CMakeFiles/c.dir/repeat.c.o.provides.build
+.PHONY : CMakeFiles/c.dir/repeat.c.o.provides
+
+CMakeFiles/c.dir/repeat.c.o.provides.build: CMakeFiles/c.dir/repeat.c.o
+
+
 CMakeFiles/c.dir/two_func.c.c.o: CMakeFiles/c.dir/flags.make
 CMakeFiles/c.dir/two_func.c.c.o: ../two_func.c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/c.dir/two_func.c.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c.dir/two_func.c.c.o   -c /Users/youdi/Project/c/two_func.c.c
 
 CMakeFiles/c.dir/two_func.c.c.i: cmake_force
@@ -908,6 +932,7 @@ c_OBJECTS = \
 "CMakeFiles/c.dir/day_mon1.c.o" \
 "CMakeFiles/c.dir/designate.c.o" \
 "CMakeFiles/c.dir/string1.c.o" \
+"CMakeFiles/c.dir/repeat.c.o" \
 "CMakeFiles/c.dir/two_func.c.c.o"
 
 # External object files for target c
@@ -946,10 +971,11 @@ libc.a: CMakeFiles/c.dir/hotel.c.o
 libc.a: CMakeFiles/c.dir/day_mon1.c.o
 libc.a: CMakeFiles/c.dir/designate.c.o
 libc.a: CMakeFiles/c.dir/string1.c.o
+libc.a: CMakeFiles/c.dir/repeat.c.o
 libc.a: CMakeFiles/c.dir/two_func.c.c.o
 libc.a: CMakeFiles/c.dir/build.make
 libc.a: CMakeFiles/c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking C static library libc.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/youdi/Project/c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking C static library libc.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/c.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c.dir/link.txt --verbose=$(VERBOSE)
 
@@ -991,6 +1017,7 @@ CMakeFiles/c.dir/requires: CMakeFiles/c.dir/hotel.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/day_mon1.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/designate.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/string1.c.o.requires
+CMakeFiles/c.dir/requires: CMakeFiles/c.dir/repeat.c.o.requires
 CMakeFiles/c.dir/requires: CMakeFiles/c.dir/two_func.c.c.o.requires
 
 .PHONY : CMakeFiles/c.dir/requires
